@@ -1,8 +1,10 @@
 # Automated Interviewing System
 
-A GPT-4 powered automated interviewer that will interview you conversationally, in real-time about any topic (technical or soft).
-Has practical uses for Quantitative roles in Hedge Funds, Investment Banking, Software Engineering, or Data Science interviewing rounds. Can also be used as a preparatory or tutoring assistant. 
-Has fundamental ability for more diverse conversational tools such as medical or psychological diagnosing - with some changes made to the interview.py backend. 
+An LLM-powered automated tutoring program that will converse with you on any given branch of topics (technical or soft). Has practical uses for Quantitative training in Finance, Economics training in Investment Banking, Software Engineering, or Data Science. Can teach basic STEM topics as well as the arts and humanities. 
+
+Has fundamental ability for more diverse conversational tools such as medical or psychological diagnosis - with some changes made to the interview.py backend. 
+
+In current python.py file, feel free to use your own GPT-4 and ElevenLabs APIs to test the program. If you'd like to run locally, either run inference with your own models or request a quantized CPU-focused LLM, speech recognition, and speech synthesis models by direct messaging me. 
 
 Enter your OPENAI and ElevenLabs API Keys into the os environment.
 
