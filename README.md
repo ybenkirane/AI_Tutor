@@ -1,6 +1,6 @@
 # Automated Tutoring AI System ("Launcher")
 
-An LLM-powered automated tutoring program that will converse with you on any given branch of topics (technical or soft). Has practical uses for Quantitative training in Finance, Economics training in Investment Banking, Software Engineering, or Data Science. Can teach basic STEM topics as well as the arts and humanities. 
+An LLM-powered automated tutoring program that will converse with you on any given branch of topics (technical or soft). Has practical uses for quantitative training in finance, economics training in investment banking, software engineering, or data science. Can teach basic STEM topics as well as the arts and humanities. 
 
 Has fundamental ability for more diverse conversational tools such as medical or psychological diagnosis - with some changes made to the interview.py backend. 
 
